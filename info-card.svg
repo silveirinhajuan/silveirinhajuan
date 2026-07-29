@@ -1,0 +1,52 @@
+<svg width="540" height="620" viewBox="0 0 540 620" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="540" height="620" rx="10" fill="#0d1117" stroke="#30363d" />
+  <style>
+    .line {
+      font-family: 'JetBrains Mono', 'Courier New', Courier, monospace;
+      font-size: 18px;
+      opacity: 0;
+      animation: typeIn 0.3s ease forwards;
+    }
+    .cursor {
+      animation: blink 1s infinite;
+    }
+    @keyframes typeIn {
+      from { opacity: 0; transform: translateX(-8px); }
+      to { opacity: 1; transform: translateX(0); }
+    }
+    @keyframes blink {
+      0%, 50% { opacity: 1; }
+      51%, 100% { opacity: 0; }
+    }
+  </style>
+  <text x="20" y="40" fill="#58a6ff" class="line" style="animation-delay: 0.00s">silveirinhajuan@github ~ $ ./whoami --verbose</text>
+  <text x="20" y="60" fill="#c9d1d9" class="line" style="animation-delay: 0.08s"></text>
+  <text x="20" y="80" fill="#3fb950" class="line" style="animation-delay: 0.16s">     ╔══════════════════════════════════════════════╗</text>
+  <text x="20" y="100" fill="#ff7b72" class="line" style="animation-delay: 0.24s">     ║   JUAN GUERRA :: SILVEIRINHAJUAN // ITA ’27    ║</text>
+  <text x="20" y="120" fill="#3fb950" class="line" style="animation-delay: 0.32s">     ╚══════════════════════════════════════════════╝</text>
+  <text x="20" y="140" fill="#c9d1d9" class="line" style="animation-delay: 0.40s"></text>
+  <text x="20" y="160" class="line" style="animation-delay: 0.48s"><tspan fill="#3fb950">OS: </tspan><tspan fill="#c9d1d9">    Linux (Ubuntu 22.04) x86_64</tspan></text>
+  <text x="20" y="180" class="line" style="animation-delay: 0.56s"><tspan fill="#3fb950">Host: </tspan><tspan fill="#c9d1d9">  DonJuan Holding / ITA 2027 Candidate</tspan></text>
+  <text x="20" y="200" class="line" style="animation-delay: 0.64s"><tspan fill="#3fb950">Kernel: </tspan><tspan fill="#c9d1d9">Quantum Computing Research Pipeline</tspan></text>
+  <text x="20" y="220" class="line" style="animation-delay: 0.72s"><tspan fill="#3fb950">Shell: </tspan><tspan fill="#c9d1d9"> zsh + tmux + neovim</tspan></text>
+  <text x="20" y="240" class="line" style="animation-delay: 0.80s"><tspan fill="#3fb950">Editor: </tspan><tspan fill="#c9d1d9">Neovim (Lua config)</tspan></text>
+  <text x="20" y="260" class="line" style="animation-delay: 0.88s"><tspan fill="#3fb950">Uptime: </tspan><tspan fill="#c9d1d9">~1 yr  Software Developer @ Pegueleve</tspan></text>
+  <text x="20" y="280" class="line" style="animation-delay: 0.96s"><tspan fill="#3fb950">Pkgs: </tspan><tspan fill="#c9d1d9">  Python · FastAPI · Django · PyTorch · TF</tspan></text>
+  <text x="20" y="300" class="line" style="animation-delay: 1.04s"><tspan fill="#3fb950">Term: </tspan><tspan fill="#c9d1d9">  Alacritty / Kitty</tspan></text>
+  <text x="20" y="320" class="line" style="animation-delay: 1.12s"><tspan fill="#3fb950">CPU: </tspan><tspan fill="#c9d1d9">   Intel i7  Quantum Simulators</tspan></text>
+  <text x="20" y="340" class="line" style="animation-delay: 1.20s"><tspan fill="#3fb950">GPU: </tspan><tspan fill="#c9d1d9">   NVIDIA RTX  CUDA Enabled</tspan></text>
+  <text x="20" y="360" class="line" style="animation-delay: 1.28s"><tspan fill="#3fb950">Mem: </tspan><tspan fill="#c9d1d9">   ML Models + Data Pipelines Loaded</tspan></text>
+  <text x="20" y="380" fill="#c9d1d9" class="line" style="animation-delay: 1.36s"></text>
+  <text x="20" y="400" fill="#ff7b72" class="line" style="animation-delay: 1.44s">— MISSION —</text>
+  <text x="20" y="420" fill="#d29922" class="line" style="animation-delay: 1.52s">› Eng. Computação ITA + PFC-F (Min. Eng. Física)</text>
+  <text x="20" y="440" fill="#d29922" class="line" style="animation-delay: 1.60s">› PMG → PhD Computação Quântica (7 anos)</text>
+  <text x="20" y="460" fill="#d29922" class="line" style="animation-delay: 1.68s">› Retorno CE remoto + Aline → São José dos Campos</text>
+  <text x="20" y="480" fill="#c9d1d9" class="line" style="animation-delay: 1.76s"></text>
+  <text x="20" y="500" fill="#ff7b72" class="line" style="animation-delay: 1.84s">— STATUS —</text>
+  <text x="20" y="520" class="line" style="animation-delay: 1.92s"><tspan fill="#3fb950">🎓 ITA 2027: </tspan><tspan fill="#c9d1d9">1ª Fase 27/09/2026 · IME 2027: 1ª Fase 20/09/2026</tspan></text>
+  <text x="20" y="540" class="line" style="animation-delay: 2.00s"><tspan fill="#3fb950">📍 Caucaia-CE · Prova: </tspan><tspan fill="#c9d1d9">Fortaleza (Av. Santos Dumont 485)</tspan></text>
+  <text x="20" y="560" fill="#d29922" class="line" style="animation-delay: 2.08s">💼 Backend Dev @ Pegueleve · APIs · IA/ML · Data Pipelines</text>
+  <text x="20" y="580" class="line" style="animation-delay: 2.16s"><tspan fill="#3fb950">🎨 Projeto Paralelo: </tspan><tspan fill="#c9d1d9">Silveira Arte (Arte Família)</tspan></text>
+  <text x="20" y="600" class="line" style="animation-delay: 2.24s"><tspan fill="#3fb950">🤖 Íris: </tspan><tspan fill="#c9d1d9">Assistente Pessoal Autônoma (Hermes Agent)</tspan></text>
+  <text x="510" y="600" fill="#58a6ff" class="line cursor" style="animation-delay: 2.82s">█</text>
+</svg>

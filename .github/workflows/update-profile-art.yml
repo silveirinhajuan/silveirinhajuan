@@ -1,0 +1,46 @@
+name: Update Profile Art
+
+on:
+  schedule:
+    - cron: "0 6 * * *"  # Daily at 06:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-art:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: |
+          python -m venv .venv
+          source .venv/bin/activate
+          pip install -r scripts/requirements.txt
+
+      - name: Fetch contributions & render heatmap
+        run: |
+          source .venv/bin/activate
+          python scripts/fetch_contributions.py --username silveirinhajuan
+          python scripts/render_heatmap_svg.py
+
+      - name: Build info card & ASCII portrait
+        run: |
+          source .venv/bin/activate
+          python scripts/make_info_card.py info-card.svg
+          python scripts/make_ascii_svg.py assets/prepped.png ascii-portrait.svg || true
+
+      - name: Commit updated SVGs
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore(profile-art): daily auto-update of SVGs"
+          file_pattern: "*.svg"

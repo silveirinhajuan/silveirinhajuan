@@ -1,57 +1,127 @@
-# 👋 Welcome to My GitHub!
+<div align="center">
 
-I'm **Juan Guerra**, a tech enthusiast with a passion for **enhancing user experiences through cutting-edge innovations in Artificial Intelligence**. My interests span **data analysis, big data, machine learning, deep learning**, and beyond. Currently, I’m working as a **Software Developer at Pegueleve**, leveraging my expertise to create impactful solutions. 
+```
+ ▗▄▄▖▗▄▄▄▖▗▖  ▗▖  ▗▖▗▄▄▄▖▗▄▄▄▖▗▄▄▖ ▗▄▄▄▖▗▖  ▗▖▗▖ ▗▖ ▗▄▖ 
+▐▌     █  ▐▌  ▐▌  ▐▌▐▌     █  ▐▌ ▐▌  █  ▐▛▚▖▐▌▐▌ ▐▌▐▌ ▐▌
+ ▝▀▚▖  █  ▐▌  ▐▌  ▐▌▐▛▀▀▘  █  ▐▛▀▚▖  █  ▐▌ ▝▜▌▐▛▀▜▌▐▛▀▜▌
+▗▄▄▞▘▗▄█▄▖▐▙▄▄▖▝▚▞▘ ▐▙▄▄▖▗▄█▄▖▐▌ ▐▌▗▄█▄▖▐▌  ▐▌▐▌ ▐▌▐▌ ▐▌
+                                     
+                            github.com / silveirinhajuan
+```
 
----
+<br>
 
-## 🚀 About Me
+<img src="https://img.shields.io/badge/ITA-2027_Applicant-0d1117?style=for-the-badge&logo=ita&logoColor=58a6ff" />
+<img src="https://img.shields.io/badge/Quantum_Computing-Researcher-0d1117?style=for-the-badge&logo=quantamagazine&logoColor=ff7b72" />
+<img src="https://img.shields.io/badge/Backend_Dev-Pegueleve-0d1117?style=for-the-badge&logo=python&logoColor=3fb950" />
 
-With **over a year of experience** in software development, I specialize in **backend development**, building efficient APIs to solve real-world problems. My journey has been driven by curiosity and a deep desire to transform ideas into tangible solutions. Whether it's creating APIs, training AI models, or diving into complex data analysis, I thrive on challenges.
+<br><br>
 
-💡 I’m particularly excited about **AI's potential** to reshape industries and improve lives.
+```
+silveirinhajuan@github ~ $ ./init --profile=full
+[OK] Compiling neural pathways...
+[OK] Loading quantum simulators...
+[OK] Spinning up ZSH + tmux + neovim...
+[OK] Establishing neural link to DonJuan Holding...
+[OK] Boot complete. Welcome, Juan. 🚀
+```
 
----
+<br><br>
 
-## 🛠️ Skills & Technologies
+<h3><code>silveirinhajuan@github ~ $ ./contributions.sh</code></h3>
 
-Here’s a glimpse of my **tech stack** and tools I frequently use:
+<img src="./contrib-heatmap.svg" width="900" alt="GitHub Contribution Heatmap" />
 
-**Programming & Frameworks**  
-![Python](https://img.shields.io/badge/python-%23323330.svg?style=for-the-badge&logo=python) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/fastapi-%23323330.svg?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+<br><br>
 
-**AI & Data Science**  
-![TensorFlow](https://img.shields.io/badge/tensorflow-%23323330.svg?style=for-the-badge&logo=tensorflow) ![PyTorch](https://img.shields.io/badge/pytorch-%23323330.svg?style=for-the-badge&logo=pytorch) ![Pandas](https://img.shields.io/badge/pandas-%23323330.svg?style=for-the-badge&logo=pandas) ![Numpy](https://img.shields.io/badge/numpy-%23323330.svg?style=for-the-badge&logo=numpy) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
-
-**Web Development**  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-**Productivity & Testing**  
-![Selenium](https://img.shields.io/badge/selenium-%23323330.svg?style=for-the-badge&logo=selenium) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-## 🌐 Connect With Me!
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/juanfocado)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/silveirinhajuan)
-
----
-
-## 📊 GitHub Stats
+<h3><code>silveirinhajuan@github ~ $ whoami --ascii</code></h3>
 
 <table>
-<tr>
-<td>
-<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=silveirinhajuan&theme=neon&hide_border=false&include_all_commits=false&count_private=false"  width="400px" />
-</td>
-<td>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=silveirinhajuan&theme=neon&hide_border=false"  width="400px" />
-</td>
-</tr>
+  <tr>
+    <td valign="top"><img src="./ascii-portrait.svg" width="430" alt="ASCII Portrait" /></td>
+    <td valign="top"><img src="./info-card.svg" width="510" alt="Neofetch Info Card" /></td>
+  </tr>
 </table>
 
-![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=silveirinhajuan&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br>
 
 ---
 
-**Let's build something amazing together! 🚀**  
+<br>
+
+## ░▒▓█ CORE STACK █▓▒░
+
+<br>
+
+**🐍 Languages & Frameworks**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+**🧠 AI / ML / Data Science**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+**🌐 Web & Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**🛠️ Productivity & Testing**
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
+
+
+<br>
+
+---
+
+<br>
+
+## ░▒▓█ SIGNAL CHANNELS █▓▒░
+
+<p align="center">
+  <a href="https://instagram.com/juanfocado">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/silveirinhajuan">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:silveirinhajuan@proton.me">
+    <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<br>
+
+---
+
+<br>
+
+```
+[INIT] session=silveirinhajuan@github status=ONLINE
+[ OK ] All systems nominal
+[EXIT] Connection stable. ↓ Building the future ↓
+```
+
+<br>
+
+<sub>⚡ Generated with <code>neofetch</code> + <code>art-of-readme</code>. Updated daily via GitHub Actions.</sub>
+
+</div>

@@ -1,0 +1,100 @@
+<svg width="430" height="520" viewBox="0 0 430 520" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .globe-line {
+      fill: none;
+      stroke: #58a6ff;
+      stroke-width: 1.2;
+      opacity: 0.65;
+      animation: drawIn 1.2s ease forwards;
+    }
+    .globe-text {
+      font-family: 'JetBrains Mono', 'Courier New', monospace;
+      font-size: 11px;
+      fill: #3fb950;
+      opacity: 0.65;
+      animation: fadeIn 0.6s ease forwards;
+    }
+    .ring {
+      fill: none;
+      stroke: #ff7b72;
+      stroke-width: 1;
+      opacity: 0.65;
+      animation: orbit 0.9s ease forwards, fadeIn 0.9s ease forwards;
+    }
+    .core {
+      fill: #c9d1d9;
+      opacity: 0.65;
+      animation: glow 1.4s ease forwards;
+    }
+    .title {
+      font-family: 'JetBrains Mono', 'Courier New', monospace;
+      font-size: 14px;
+      fill: #58a6ff;
+      opacity: 0.65;
+      animation: fadeIn 0.5s ease forwards;
+    }
+    .subtitle {
+      font-family: 'JetBrains Mono', 'Courier New', monospace;
+      font-size: 11px;
+      fill: #c9d1d9;
+      opacity: 0.65;
+      animation: fadeIn 0.5s ease forwards;
+    }
+    .tx-hash {
+      font-family: 'JetBrains Mono', 'Courier New', monospace;
+      font-size: 9px;
+      fill: #8b949e;
+      opacity: 0.65;
+      animation: fadeIn 0.5s ease forwards;
+    }
+    @keyframes drawIn {
+      from { opacity: 0.65; stroke-dasharray: 1500; stroke-dashoffset: 1500; }
+      to { opacity: 0.85; stroke-dasharray: 1500; stroke-dashoffset: 0; }
+    }
+    @keyframes fadeIn {
+      0% { opacity: 0.65; }
+      100% { opacity: 1; }
+    }
+    @keyframes orbit {
+      from { transform: scale(0.6) rotate(-20deg); opacity: 0.65; }
+      to { transform: scale(1) rotate(0deg); opacity: 1; }
+    }
+    @keyframes glow {
+      0% { opacity: 0.65; filter: blur(8px); }
+      50% { opacity: 0.8; filter: blur(4px); }
+      100% { opacity: 1; filter: blur(0); }
+    }
+  </style>
+  <rect width="430" height="520" fill="#0d1117"/>
+
+  <!-- Title -->
+  <text x="20" y="36" class="title" style="animation-delay: 0.1s">~/.silveirinhajuan/run.sh</text>
+  <text x="20" y="56" class="subtitle" style="animation-delay: 0.2s">$ initializing quantum core...</text>
+
+  <!-- Orbit rings -->
+  <ellipse cx="215" cy="260" rx="180" ry="60" class="ring" style="animation-delay: 0.4s" />
+  <ellipse cx="215" cy="260" rx="140" ry="140" class="ring" style="animation-delay: 0.5s; transform-origin: 215px 260px;" />
+  <ellipse cx="215" cy="260" rx="60" ry="180" class="ring" style="animation-delay: 0.6s" />
+
+  <!-- Globe sphere (concentric circles) -->
+  <circle cx="215" cy="260" r="100" class="globe-line" style="animation-delay: 0.7s" />
+  <circle cx="215" cy="260" r="80" class="globe-line" style="animation-delay: 0.8s" />
+  <circle cx="215" cy="260" r="60" class="globe-line" style="animation-delay: 0.9s" />
+  <circle cx="215" cy="260" r="40" class="globe-line" style="animation-delay: 1.0s" />
+
+  <!-- Equator + meridian cross-section -->
+  <line x1="115" y1="260" x2="315" y2="260" class="globe-line" style="animation-delay: 1.1s" />
+  <line x1="215" y1="160" x2="215" y2="360" class="globe-line" style="animation-delay: 1.1s" />
+
+  <!-- Core nucleus -->
+  <circle cx="215" cy="260" r="6" fill="#ffa657" class="core" style="animation-delay: 1.5s" />
+  <circle cx="215" cy="260" r="14" fill="none" stroke="#ffa657" stroke-width="1" class="core" style="animation-delay: 1.6s" />
+
+  <!-- Code/console footer -->
+  <text x="20" y="430" class="subtitle" style="animation-delay: 1.8s">▸ <tspan fill="#3fb950">core</tspan>: quantum_kernel_v0.1</text>
+  <text x="20" y="450" class="subtitle" style="animation-delay: 1.9s">▸ <tspan fill="#3fb950">build</tspan>: silveirinhajuan@github</text>
+  <text x="20" y="470" class="subtitle" style="animation-delay: 2.0s">▸ <tspan fill="#3fb950">target</tspan>: ITA → PhD Quantum</text>
+
+  <!-- Transaction-hash style status -->
+  <text x="20" y="498" class="tx-hash" style="animation-delay: 2.2s">0x9a3f...c12b :: status=ONLINE :: uptime=∞</text>
+</svg>
