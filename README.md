@@ -44,11 +44,13 @@
 <h3>GitHub at a glance</h3>
 
 <a href="https://github.com/silveirinhajuan">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=silveirinhajuan&show_icons=true&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="GitHub statistics for silveirinhajuan" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=silveirinhajuan&show_icons=true&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="GitHub statistics for silveirinhajuan" />
 </a>
 <a href="https://github.com/silveirinhajuan">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silveirinhajuan&layout=compact&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="Most used languages by silveirinhajuan" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=silveirinhajuan&layout=compact&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="Most used languages by silveirinhajuan" />
 </a>
+
+<sub>Live metrics powered by <a href="https://github.com/stats-organization/github-stats-extended">GitHub Stats Extended</a>.</sub>
 
 <br><br>
 
