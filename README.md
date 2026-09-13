@@ -1,12 +1,30 @@
 <div align="center">
 
 ```
- ▗▄▄▖▗▄▄▄▖▗▖  ▗▖  ▗▖▗▄▄▄▖▗▄▄▄▖▗▄▄▖ ▗▄▄▄▖▗▖  ▗▖▗▖ ▗▖ ▗▄▖ 
-▐▌     █  ▐▌  ▐▌  ▐▌▐▌     █  ▐▌ ▐▌  █  ▐▛▚▖▐▌▐▌ ▐▌▐▌ ▐▌
- ▝▀▚▖  █  ▐▌  ▐▌  ▐▌▐▛▀▀▘  █  ▐▛▀▚▖  █  ▐▌ ▝▜▌▐▛▀▜▌▐▛▀▜▌
-▗▄▄▞▘▗▄█▄▖▐▙▄▄▖▝▚▞▘ ▐▙▄▄▖▗▄█▄▖▐▌ ▐▌▗▄█▄▖▐▌  ▐▌▐▌ ▐▌▐▌ ▐▌
+ █████   █████ ██████████ █████       █████          ███████   
+▒▒███   ▒▒███ ▒▒███▒▒▒▒▒█▒▒███       ▒▒███         ███▒▒▒▒▒███ 
+ ▒███    ▒███  ▒███  █ ▒  ▒███        ▒███        ███     ▒▒███
+ ▒███████████  ▒██████    ▒███        ▒███       ▒███      ▒███
+ ▒███▒▒▒▒▒███  ▒███▒▒█    ▒███        ▒███       ▒███      ▒███
+ ▒███    ▒███  ▒███ ▒   █ ▒███      █ ▒███      █▒▒███     ███ 
+ █████   █████ ██████████ ███████████ ███████████ ▒▒▒███████▒  
+▒▒▒▒▒   ▒▒▒▒▒ ▒▒▒▒▒▒▒▒▒▒ ▒▒▒▒▒▒▒▒▒▒▒ ▒▒▒▒▒▒▒▒▒▒▒    ▒▒▒▒▒▒▒    
+                                                               
+                                                               
+                                                               
                                      
-                            github.com / silveirinhajuan
+ █████   ███   █████    ███████    ███████████   █████       ██████████  
+▒▒███   ▒███  ▒▒███   ███▒▒▒▒▒███ ▒▒███▒▒▒▒▒███ ▒▒███       ▒▒███▒▒▒▒███ 
+ ▒███   ▒███   ▒███  ███     ▒▒███ ▒███    ▒███  ▒███        ▒███   ▒▒███
+ ▒███   ▒███   ▒███ ▒███      ▒███ ▒██████████   ▒███        ▒███    ▒███
+ ▒▒███  █████  ███  ▒███      ▒███ ▒███▒▒▒▒▒███  ▒███        ▒███    ▒███
+  ▒▒▒█████▒█████▒   ▒▒███     ███  ▒███    ▒███  ▒███      █ ▒███    ███ 
+    ▒▒███ ▒▒███      ▒▒▒███████▒   █████   █████ ███████████ ██████████  
+     ▒▒▒   ▒▒▒         ▒▒▒▒▒▒▒    ▒▒▒▒▒   ▒▒▒▒▒ ▒▒▒▒▒▒▒▒▒▒▒ ▒▒▒▒▒▒▒▒▒▒   
+                                                                         
+                                                                         
+                                                                           
+                                   
 ```
 
 <br>
@@ -14,11 +32,11 @@
 <p>
   <img src="https://img.shields.io/badge/Focus-Backend%20%26%20AI-58a6ff?style=flat-square" alt="Focus: Backend and AI" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20collaboration-3fb950?style=flat-square" alt="Status: Open to collaboration" />
-  <img src="https://img.shields.io/badge/Location-Caucaia%2C%20CE-d29922?style=flat-square" alt="Location: Caucaia, CE" />
+  <img src="https://img.shields.io/badge/Location-Brasil%2C%20CE-d29922?style=flat-square" alt="Location: Ceará, Brasil" />
 </p>
 
 <p>
-  Building reliable backend systems and exploring quantum computing, AI, and data engineering.
+  Building reliable backend systems and exploring AI, and data engineering.
 </p>
 
 <br><br>
