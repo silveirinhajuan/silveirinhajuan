@@ -56,17 +56,6 @@
 
 <img src="./contrib-heatmap.svg" width="900" alt="GitHub Contribution Heatmap" />
 
-<br><br>
-
-<h3><code>silveirinhajuan@github ~ $ whoami --ascii</code></h3>
-
-<table>
-  <tr>
-    <td valign="top"><img src="./ascii-portrait.svg" width="430" alt="ASCII Portrait" /></td>
-    <td valign="top"><img src="./info-card.svg" width="510" alt="Neofetch Info Card" /></td>
-  </tr>
-</table>
-
 <br>
 
 ---
