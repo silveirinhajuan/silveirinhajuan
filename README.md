@@ -11,20 +11,26 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/ITA-2027_Applicant-0d1117?style=for-the-badge&logo=ita&logoColor=58a6ff" />
-<img src="https://img.shields.io/badge/Quantum_Computing-Researcher-0d1117?style=for-the-badge&logo=quantamagazine&logoColor=ff7b72" />
-<img src="https://img.shields.io/badge/Backend_Dev-Pegueleve-0d1117?style=for-the-badge&logo=python&logoColor=3fb950" />
+<p>
+  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20AI-58a6ff?style=flat-square" alt="Focus: Backend and AI" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20collaboration-3fb950?style=flat-square" alt="Status: Open to collaboration" />
+  <img src="https://img.shields.io/badge/Location-Caucaia%2C%20CE-d29922?style=flat-square" alt="Location: Caucaia, CE" />
+</p>
+
+<p>
+  Building reliable backend systems and exploring quantum computing, AI, and data engineering.
+</p>
 
 <br><br>
 
-```
-silveirinhajuan@github ~ $ ./init --profile=full
-[OK] Compiling neural pathways...
-[OK] Loading quantum simulators...
-[OK] Spinning up ZSH + tmux + neovim...
-[OK] Establishing neural link to DonJuan Holding...
-[OK] Boot complete. Welcome, Juan. 🚀
-```
+<h3>GitHub at a glance</h3>
+
+<a href="https://github.com/silveirinhajuan">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=silveirinhajuan&show_icons=true&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="GitHub statistics for silveirinhajuan" />
+</a>
+<a href="https://github.com/silveirinhajuan">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silveirinhajuan&layout=compact&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="Most used languages by silveirinhajuan" />
+</a>
 
 <br><br>
 
@@ -49,7 +55,7 @@ silveirinhajuan@github ~ $ ./init --profile=full
 
 <br>
 
-## ░▒▓█ CORE STACK █▓▒░
+## Core stack
 
 <br>
 
@@ -92,7 +98,7 @@ silveirinhajuan@github ~ $ ./init --profile=full
 
 <br>
 
-## ░▒▓█ SIGNAL CHANNELS █▓▒░
+## Connect
 
 <p align="center">
   <a href="https://instagram.com/juanfocado">
@@ -122,6 +128,6 @@ silveirinhajuan@github ~ $ ./init --profile=full
 
 <br>
 
-<sub>⚡ Generated with <code>neofetch</code> + <code>art-of-readme</code>. Updated daily via GitHub Actions.</sub>
+<sub>⚡ Built with custom SVGs, GitHub Stats Cards, and Shields.io static badges.</sub>
 
 </div>
